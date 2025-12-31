@@ -18,6 +18,3 @@ Upload your resume and receive instant AI feedback.
 
 ## Author
 Built and maintained by **Maharajan**.
-
-## License
-MIT
